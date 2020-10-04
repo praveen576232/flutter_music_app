@@ -1,0 +1,1 @@
+{"_info":"// This is a generated file; do not edit or check into version control.","dependencyGraph":[{"name":"audioplayer","dependencies":[]},{"name":"firebase_core","dependencies":[]},{"name":"firebase_storage","dependencies":["firebase_core"]},{"name":"sensors","dependencies":[]},{"name":"storage_path","dependencies":[]},{"name":"video_player","dependencies":[]}]}
